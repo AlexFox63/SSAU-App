@@ -1,0 +1,1 @@
+enum NavigationTabs { notes, timetable, profile }
